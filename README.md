@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="mariam.mansour2027@gmail.com" target="_blank">
+  <a href="mailto:mariam.mansour2027@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mariam-mansour-92a427356" target="_blank">
