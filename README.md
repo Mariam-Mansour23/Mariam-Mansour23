@@ -6,10 +6,13 @@
 
 ###
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mansour23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariam-Mansour23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mansour23&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"/><br>
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariam-Mansour23&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 </div>
+
 
 ###
 
@@ -67,10 +70,21 @@
 - **🎟️ Movie Ticket Booking System:**  
   JavaFX-based application linked to a XAMPP database for booking and viewing tickets with robust input validation.
 
-- **🛍️ Hayah Self-Care Shop Website:**  
-  Responsive, multi-page e-commerce site for wellness products built with HTML/CSS/JavaScript.
+#### 🛍️ Hayah Self-Care Shop Website:
+  Responsive, multi-page e-commerce site for wellness products built with HTML/CSS/JavaScript. <br>
+  🔗 **Live Website:** [https://mariam-mansour23.github.io/Hayah-Self-Care-Shop/](https://mariam-mansour23.github.io/Hayah-Self-Care-Shop/) <br>
+  This project was developed as part of our Web Programming course.  
+  Team of 3 members, we worked together on the design, coding, and deployment. 
 
----
+ ##### Features  
+- Responsive design  
+- Product catalog   
+- Product search  
+- Form validation with password strength indicator in sign-up  
+- Slideshow (image carousel)  
+- Side menu (navigation drawer)  
+- Scrolling text banner (news ticker for announcements/offers)  
+
 
 ## 🌱 Current Interests
 
